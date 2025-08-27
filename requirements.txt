@@ -1,0 +1,6 @@
+streamlit==1.32.0
+ollama
+langchain
+langchain-community
+dashscope
+pandas
